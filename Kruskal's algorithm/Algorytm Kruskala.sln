@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorytm Kruskala", "Algorytm Kruskala\Algorytm Kruskala.csproj", "{482F0051-D81A-4BC3-838D-EC1950F60083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{482F0051-D81A-4BC3-838D-EC1950F60083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{482F0051-D81A-4BC3-838D-EC1950F60083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{482F0051-D81A-4BC3-838D-EC1950F60083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{482F0051-D81A-4BC3-838D-EC1950F60083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EECB23C-69A3-4697-A931-906ED21A69DD}
+	EndGlobalSection
+EndGlobal
